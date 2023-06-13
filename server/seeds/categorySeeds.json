@@ -1,0 +1,52 @@
+[
+  {
+    "categoryName": "Furniture Assembly",
+    "categoryDesc": "Professional furniture assembly services for home and office furniture.",
+    "categoryImage": "category-furniture-assembly.jpeg"
+  },
+  {
+    "categoryName": "Lighting Installation",
+    "categoryDesc": "Expert lighting installation services for residential and commercial spaces.",
+    "categoryImage": "category-lighting-installation.jpeg"
+  },
+  {
+    "categoryName": "Painting and Wall Covering",
+    "categoryDesc": "High-quality painting and wall covering services to transform your space.",
+    "categoryImage": "category-painting.jpg"
+  },
+  {
+    "categoryName": "Plumbing Services",
+    "categoryDesc": "Reliable plumbing services for repairs, installations, and maintenance.",
+    "categoryImage": "category-plumbing.jpg"
+  },
+  {
+    "categoryName": "Electrical Services",
+    "categoryDesc": "Professional electrical services for residential and commercial needs.",
+    "categoryImage": "category-electrician.jpg"
+  },
+  {
+    "categoryName": "Flooring Installation",
+    "categoryDesc": "Expert flooring installation services for various types of flooring materials.",
+    "categoryImage": "category-flooring.jpg"
+  },
+  {
+    "categoryName": "Carpentry and Woodworking",
+    "categoryDesc": "Skilled carpentry and woodworking services for custom projects and repairs.",
+    "categoryImage": "category-carpentry.jpg"
+  },
+  {
+    "categoryName": "Appliance Install & Repair",
+    "categoryDesc": "Appliance installation and repair services for a wide range of appliances.",
+    "categoryImage": "category-applicance.jpg"
+  },
+  {
+    "categoryName": "Bathroom Remodeling",
+    "categoryDesc": "Comprehensive bathroom remodeling services to create your dream bathroom.",
+    "categoryImage": "category-bathroom-remodel.jpg"
+  },
+  {
+    "categoryName": "Kitchen Renovation",
+    "categoryDesc": "Professional kitchen renovation services to transform your kitchen space.",
+    "categoryImage": "category-kitchen-remodel.jpg"
+  }
+]

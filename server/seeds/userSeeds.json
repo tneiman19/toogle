@@ -1,0 +1,264 @@
+[
+  {
+    "firstName": "Barack",
+    "lastName": "Obama",
+    "email": "barack.obama@example.com",
+    "password": "Obama123!",
+    "profileImage": "barak.jpg",
+    "isProvider": true,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Kylie",
+    "lastName": "Jenner",
+    "email": "kylie.jenner@example.com",
+    "password": "Jenner456!",
+    "profileImage": "kylie.jpg",
+    "isProvider": true,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Oprah",
+    "lastName": "Winfrey",
+    "email": "oprah.winfrey@example.com",
+    "password": "Winfrey456!",
+    "profileImage": "oprah.jpg",
+    "isProvider": true,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Leonardo",
+    "lastName": "DiCaprio",
+    "email": "leonardo.dicaprio@example.com",
+    "password": "DiCaprio456!",
+    "profileImage": "caprio.jpg",
+    "isProvider": true,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "AliceJohnson@example.com",
+    "password": "SecurePassword1!",
+    "profileImage": "profile2.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Wilson",
+    "email": "SamWilson@example.com",
+    "password": "Falcon123!",
+    "profileImage": "profile5.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+
+  {
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "email": "BobSmith10@none.com",
+    "password": "Password123!",
+    "profileImage": "profile1.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "JohnDoe@example.com",
+    "password": "P@ssw0rd",
+    "profileImage": "profile3.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "email": "EmilyBrown@example.com",
+    "password": "Brownie123!",
+    "profileImage": "profile4.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+
+  {
+    "firstName": "Beyonce",
+    "lastName": "Knowles",
+    "email": "beyonce.knowles@example.com",
+    "password": "Knowles789!",
+    "profileImage": "profile8.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Branson",
+    "email": "richard.branson@example.com",
+    "password": "Branson123!",
+    "profileImage": "profile9.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Serena",
+    "lastName": "Williams",
+    "email": "serena.williams@example.com",
+    "password": "Williams456!",
+    "profileImage": "profile10.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "David",
+    "lastName": "Beckham",
+    "email": "david.beckham@example.com",
+    "password": "Beckham789!",
+    "profileImage": "profile11.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Angelina",
+    "lastName": "Jolie",
+    "email": "angelina.jolie@example.com",
+    "password": "Jolie123!",
+    "isProvider": false,
+    "profileImage": "profile11.jpg",
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+
+  {
+    "firstName": "Emma",
+    "lastName": "Watson",
+    "email": "emma.watson@example.com",
+    "password": "Watson789!",
+    "profileImage": "profile12.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Kanye",
+    "lastName": "West",
+    "email": "kanye.west@example.com",
+    "password": "West123!",
+    "isProvider": false,
+    "profileImage": "profile13.jpg",
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Gates",
+    "email": "bill.gates@example.com",
+    "password": "Gates123!",
+    "profileImage": "profile14.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Elon",
+    "lastName": "Musk",
+    "email": "elon.musk@example.com",
+    "password": "Musk456!",
+    "profileImage": "profile16.jpg",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "Zuckerberg",
+    "email": "mark.zuckerberg@example.com",
+    "password": "Zuckerberg789!",
+    "isProvider": false,
+    "profileImage": "profile17.jpg",
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Taylor",
+    "lastName": "Swift",
+    "email": "taylor.swift@example.com",
+    "password": "Swift123!",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Bezos",
+    "email": "jeff.bezos@example.com",
+    "password": "Bezos789!",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Aniston",
+    "email": "jennifer.aniston@example.com",
+    "password": "Aniston123!",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Hanks",
+    "email": "tom.hanks@example.com",
+    "password": "Hanks456!",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  },
+  {
+    "firstName": "Priyanka",
+    "lastName": "Chopra",
+    "email": "priyanka.chopra@example.com",
+    "password": "Chopra789!",
+    "isProvider": false,
+    "services": [],
+    "placedOrders": [],
+    "completedOrders": []
+  }
+]
